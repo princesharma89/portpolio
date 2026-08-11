@@ -53,7 +53,7 @@ npm run dev
 ## 👤 Author
 
 - **Prince Kumar**
-- **IIIT Bhagalpur** — B.Tech ECE (2023 – 2027, CGPA: 7.33)
+- **IIIT Bhagalpur** — B.Tech ECE (2023 – 2027, CGPA)
 - **GitHub**: [princesharma89](https://github.com/princesharma89)
 - **LinkedIn**: [prince-kumar](https://linkedin.com/in/prince-kumar)
 - **LeetCode**: [princesharma89](https://leetcode.com/u/princesharma89/)
